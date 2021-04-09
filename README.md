@@ -13,7 +13,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## How To Run
 
+```
 composer install
 php artisan serve
+```
 
 That's it!
